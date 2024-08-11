@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NAKUL
-- 👀 I’m interested in CYBER SECURITY 
+- 👀 I’m interested in FULL STACK
 - 🌱 I’m currently doing BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
